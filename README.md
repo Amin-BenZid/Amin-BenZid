@@ -18,7 +18,7 @@
 <a href="https://twitter.com/_AminXa_">
   <img align="left" alt="Amin's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/amin-bz-20a2bb228/">
+<a href="https://www.linkedin.com/in/mohamed-amin-benzid-20a2bb228/">
   <img align="left" alt="Amin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
