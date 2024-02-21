@@ -16,7 +16,7 @@
   <img align="left" alt="Amin's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/_AminXa_">
-  <img align="left" alt="Amin's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Amin's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/x.svg" />
 </a>
 <a href="https://www.linkedin.com/in/mohamed-amin-benzid-20a2bb228/">
   <img align="left" alt="Amin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
