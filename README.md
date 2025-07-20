@@ -1,7 +1,7 @@
 ## hey there
 
 ### This is Amin Bz
-:bow: 20 Yo Full Stack Web Developer 
+:bow: 21 Yo Full Stack Web Developer 
 <br/>
 :mortar_board: Computer Science Student 
 <br/>
