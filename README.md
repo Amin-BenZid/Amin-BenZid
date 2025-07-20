@@ -3,7 +3,7 @@
 ### This is Amin Bz
 :bow: 21 Yo Full Stack Web Developer 
 <br/>
-:mortar_board: Computer Science Student 
+:mortar_board: Cloud Engineering Student 
 <br/>
 :guitar: I'm A Musician 
 <br/>
