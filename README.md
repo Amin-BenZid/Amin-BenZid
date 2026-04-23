@@ -1,52 +1,78 @@
-## hey there
+<h1 align="center">Hey 👋, I'm Amin</h1>
+<h3 align="center">Full Stack Developer • Cloud Engineering Student • Builder</h3>
 
-### This is Amin Bz
-:bow: 21 Yo Full Stack Web Developer 
-<br/>
-:mortar_board: Cloud Engineering Student 
-<br/>
-:guitar: I'm A Musician 
-<br/>
-:purple_heart: I Prefer MERN Stack But Im Open For Anything 
-<br/>
-:mailbox: Email : aminebenzid2003@gmail.com 
-<br/>
-<br/>
-<a href="https://www.instagram.com/bz_amin.11_/">
-  <img align="left" alt="Amin's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://twitter.com/_AminXa_">
-  <img align="left" alt="Amin's Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" />
-</a>
-<a href="https://www.linkedin.com/in/mohamed-amin-benzid-20a2bb228/">
-  <img align="left" alt="Amin's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
-</a>
+---
 
-<br/>
+## 🚀 About Me
+- 🎓 22 y/o Cloud Engineering student  
+- 💻 Full Stack Web Developer  
+- 🎸 Musician (because code needs rhythm too)  
+- 🧠 MERN stack is my comfort zone, but I adapt fast  
+- 🔥 I like building real products, not just projects  
 
-**languages and tools:**  
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.instagram.com/bz_amin.11_/">
+    <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" width="22px" />
+  </a>
+  <a href="https://twitter.com/_AminXa_">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="22px" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-amin-benzid-20a2bb228/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="22px" />
+  </a>
+</p>
 
+📫 **Email:** aminebenzid2003@gmail.com  
 
+---
 
+## 🧠 Tech Stack
 
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp" />
+</p>
 
-📈 my github stats
+### ⚙️ Backend & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase" />
+</p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Amin-BenZid&show_icons=true&theme=gotham" alt="amin" />
+### 🛠 Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,docker" />
+</p>
 
+---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amin-BenZid&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Amin-BenZid&theme=tokyonight&hide_border=true" />
+</p>
 
+---
+
+## ⚡ What I'm Working On
+- 🚀 Building scalable web apps (MERN + Docker)
+- 📱 Developing **Hajemli** (barber booking platform)
+- 🎯 Improving UI/UX & system architecture skills
+- ☁️ Diving deeper into Cloud & DevOps
+
+---
+
+## 🧩 Fun Fact
+> I treat coding like music — rhythm, structure, and creativity matter.
+
+---
+
+## 🔥 Motto
+> *“Stay consistent. Build things that matter.”*
+
+---
