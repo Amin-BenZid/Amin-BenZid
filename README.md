@@ -1,11 +1,7 @@
 <h1 align="center">Hey, I'm Amin</h1>
 <h3 align="center">Full Stack Developer • Cloud Engineering Student • Builder</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
-</p>
-
----
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
 
 ## About Me
 - 23 y/o Cloud Engineering Student  
@@ -13,6 +9,8 @@
 - Musician  
 - MERN stack is my main stack, but I adapt fast  
 - I focus on building real, scalable products  
+
+<br clear="right"/>
 
 ---
 
@@ -60,16 +58,3 @@ Email: aminebenzid2003@gmail.com
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Amin-BenZid&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## Current Focus
-- Building scalable web applications (MERN + Docker)
-- Developing Hajemli (barber booking platform)
-- Deepening knowledge in Cloud Engineering and DevOps
-- Improving UI/UX and system architecture
-
----
-
-## Motto
-"Stay consistent. Build things that matter."
