@@ -1,18 +1,22 @@
-<h1 align="center">Hey 👋, I'm Amin</h1>
+<h1 align="center">Hey, I'm Amin</h1>
 <h3 align="center">Full Stack Developer • Cloud Engineering Student • Builder</h3>
 
----
-
-## 🚀 About Me
-- 🎓 22 y/o Cloud Engineering student  
-- 💻 Full Stack Web Developer  
-- 🎸 Musician (because code needs rhythm too)  
-- 🧠 MERN stack is my comfort zone, but I adapt fast  
-- 🔥 I like building real products, not just projects  
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## About Me
+- 23 y/o Cloud Engineering Student  
+- Full Stack Web Developer  
+- Musician  
+- MERN stack is my main stack, but I adapt fast  
+- I focus on building real, scalable products  
+
+---
+
+## Connect With Me
 <p align="left">
   <a href="https://www.instagram.com/bz_amin.11_/">
     <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" width="22px" />
@@ -25,30 +29,30 @@
   </a>
 </p>
 
-📫 **Email:** aminebenzid2003@gmail.com  
+Email: aminebenzid2003@gmail.com  
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp" />
 </p>
 
-### ⚙️ Backend & Frontend
+### Backend & Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase" />
 </p>
 
-### 🛠 Tools & Environment
+### Tools & Environment
 <p>
   <img src="https://skillicons.dev/icons?i=git,linux,docker" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amin-BenZid&show_icons=true&theme=tokyonight" />
 </p>
@@ -59,20 +63,13 @@
 
 ---
 
-## ⚡ What I'm Working On
-- 🚀 Building scalable web apps (MERN + Docker)
-- 📱 Developing **Hajemli** (barber booking platform)
-- 🎯 Improving UI/UX & system architecture skills
-- ☁️ Diving deeper into Cloud & DevOps
+## Current Focus
+- Building scalable web applications (MERN + Docker)
+- Developing Hajemli (barber booking platform)
+- Deepening knowledge in Cloud Engineering and DevOps
+- Improving UI/UX and system architecture
 
 ---
 
-## 🧩 Fun Fact
-> I treat coding like music — rhythm, structure, and creativity matter.
-
----
-
-## 🔥 Motto
-> *“Stay consistent. Build things that matter.”*
-
----
+## Motto
+"Stay consistent. Build things that matter."
