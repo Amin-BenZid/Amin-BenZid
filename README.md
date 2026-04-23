@@ -16,14 +16,8 @@
 
 ## Connect With Me
 <p align="left">
-  <a href="https://www.instagram.com/bz_amin.11_/">
-    <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" width="22px" />
-  </a>
-  <a href="https://twitter.com/_AminXa_">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="22px" />
-  </a>
   <a href="https://www.linkedin.com/in/mohamed-amin-benzid-20a2bb228/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="22px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="22px" />
   </a>
 </p>
 
@@ -43,9 +37,14 @@ Email: aminebenzid2003@gmail.com
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase" />
 </p>
 
+### DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,githubactions" />
+</p>
+
 ### Tools & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman" />
 </p>
 
 ---
