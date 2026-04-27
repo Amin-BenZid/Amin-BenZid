@@ -1,13 +1,5 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        > INITIALIZING PROFILE... LOADING AMIN.EXE           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Amin+%F0%9F%96%A5%EF%B8%8F;Full+Stack+Developer;Cloud+Engineer;Builder+%26+Maker" alt="Typing SVG" />
 </h1>
@@ -26,15 +18,6 @@
 
 ## `$ whoami`
 
-```yaml
-name       : Mohamed Amin Benzid
-age        : 23
-role       : Full Stack Developer
-status     : Cloud Engineering Student
-main_stack : MERN + NestJS + AWS
-interests  : [scalable systems, clean architecture, music]
-superpower : Adapts fast, ships faster
-```
 
 - 🖥️ Full Stack Web Developer — MERN stack & beyond
 - ☁️ Cloud Engineering student — AWS-focused
@@ -109,12 +92,7 @@ superpower : Adapts fast, ships faster
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════╗
-║   > SESSION ACTIVE  //  ALWAYS BUILDING          ║
-║   > OPEN TO: collabs, projects, new challenges   ║
-╚══════════════════════════════════════════════════╝
-```
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Amin-BenZid&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
 
